@@ -46,18 +46,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-![Sami GitHub stats](https://github-readme-stats.vercel.app/api?username=samisantts&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisantts&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 # 🔥 Projetos
 
 🚀 Alguns projetos em desenvolvimento:
@@ -72,7 +60,8 @@
 
 <div align="center">
 
-📌 GitHub: [GitHub de Sami Santos](https://github.com/samisantts?utm_source=chatgpt.com)
+📌 (www.linkedin.com/in/sami-santos-9625243a4)
+    (https://github.com/samisantts)
 
 </div>
 
