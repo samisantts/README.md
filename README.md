@@ -1,74 +1,28 @@
-<div align="center">
+# Olá, tudo bem? 👋
 
-# 👋 Olá, eu sou Sami Santos
+Sou estudante de **Engenharia de Software** e estou em busca da minha primeira oportunidade como estagiário na área de desenvolvimento.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+- 🌱 Atualmente estudando **Java (POO)**, **HTML/CSS** e **Git/GitHub**
+- 💻 Gosto de lógica de programação e projetos práticos
+- 📫 Aberto a oportunidades de estágio em desenvolvimento de software
+- 📍 Salvador, BA
 
-### 🚀 Estudante de Programação | Java Backend 
+## 🛠️ Tecnologias
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
----
+## 📊 Estatísticas
 
-# 💻 Sobre Mim
-
-🎯 Atualmente estudando:
-
-- ☕ Java
-- 📚 Lógica de programação
-- 🔄 Switch Case
-- 🧠 Métodos
-- 🛠 Backend Development
-
-🚀 Buscando evoluir diariamente como desenvolvedor backend.
-
----
-
-# 🚀 Tecnologias
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default" alt="Estatísticas do GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" alt="Linguagens mais usadas" height="165"/>
+</p>
 
 ---
 
-# 📚 Atualmente Aprendendo
-
-- Estruturas condicionais
-- Métodos em Java
-- Arrays
-- Orientação a Objetos
-- Backend com Java
-
----
-
-# 🔥 Projetos
-
-🚀 Alguns projetos em desenvolvimento:
-
-- ☕ java.projeto
-- 📚 Exercícios de lógica
-- 🛠 Projetos backend futuros
-
----
-
-# 🌎 Redes
-
-<div align="center">
-
-📌 (www.linkedin.com/in/sami-santos-9625243a4)
-   
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Obrigado por visitar meu perfil!
-
-</div>
+⭐️ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
