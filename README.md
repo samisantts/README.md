@@ -10,7 +10,6 @@
 
 - 🎓 Cursando **Engenharia de Software** na UCSal
 - 🌱 Atualmente estudando **Java (Programação Orientada a Objetos)**, **HTML/CSS/JavaScript** e **Git/GitHub**
-- 🔭 Já concluí cursos de Lógica de Programação, POO, Java e Git/GitHub
 - 💼 Em busca da minha primeira oportunidade como **estagiário em desenvolvimento de software**
 - 📍 Salvador, BA - Brasil
 - ⚡ Curioso por natureza, gosto de resolver problemas e entender como as coisas funcionam por trás dos panos
