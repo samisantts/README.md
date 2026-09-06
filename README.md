@@ -1,43 +1,73 @@
-# 👋 Hi, I'm Sami Gonçalves Santos
+# 👋 Olá, eu sou o Sammy
 
-### 💻 Back-End Developer in Progress
+### 💻 Desenvolvedor Back-End em Formação
 
-I'm currently focused on learning **Java, Python, Object-Oriented Programming, and Back-End Development**.
+Sou um desenvolvedor em formação, focado em **desenvolvimento Back-End**, atualmente criando projetos pessoais para fortalecer minha lógica de programação e minhas habilidades em desenvolvimento de software.
 
-I enjoy building projects from scratch, improving my programming logic, and understanding how applications work beyond simply writing code.
+Minhas principais tecnologias são **Java, JavaScript, HTML e CSS**. Atualmente estou estudando **Programação Orientada a Objetos, APIs e a integração entre Back-End e Front-End**.
 
-### 🚀 Currently Learning
+---
 
-* ☕ Java
-* 🐍 Python
-* 🧩 Object-Oriented Programming
-* 🔧 Back-End Development
-* 🗄️ Databases
-* 🔀 Git & GitHub
+## 🧑‍💻 Sobre Mim
 
-### 📚 What I'm Working On
+* 🚀 Atualmente aprendendo **Java e desenvolvimento Back-End**
+* ☕ Estudando **Programação Orientada a Objetos (POO)**
+* 🌐 Desenvolvendo interfaces com **HTML, CSS e JavaScript**
+* 🔌 Aprendendo a desenvolver e consumir **APIs**
+* 🧠 Focado em melhorar minha **lógica de programação e resolução de problemas**
+* 🛠️ Desenvolvendo **projetos pessoais** para colocar meus conhecimentos em prática
 
-I'm currently developing projects to strengthen my knowledge of **programming logic, Object-Oriented Programming, software architecture, and problem-solving**.
+---
 
-My goal is not only to learn syntax, but also to learn how to **think, structure, and solve problems as a developer**.
+## ⚡ Stack Tecnológica
 
-### 🎯 Goals
+**Back-End**
 
-* Build a strong foundation in Back-End Development
-* Improve my programming logic
-* Develop real-world projects
-* Learn and apply software development best practices
-* Grow as a Software Developer
-* Earn my first opportunity in the technology industry
+`Java` `POO` `APIs`
 
-### 🛠️ Technologies
+**Front-End**
+
+`HTML5` `CSS3` `JavaScript`
+
+**Ferramentas**
+
+`Git` `GitHub` `VS Code` `IntelliJ IDEA`
+
+---
+
+## 🚧 Projeto em Destaque
+
+### 💱 Conversor de Moedas
+
+Um projeto pessoal criado para praticar **Java, Programação Orientada a Objetos, APIs, JavaScript, HTML e CSS**.
+
+O projeto combina um Back-End desenvolvido em Java com uma interface web e está sendo desenvolvido passo a passo, com planos de adicionar visualização de dados das cotações através de gráficos e outras funcionalidades.
+
+**Status:** 🚧 Em desenvolvimento
+
+---
+
+## 🎯 Atualmente Aprendendo
 
 ```text
-Java • Python • OOP • Git • GitHub • HTML • CSS • JavaScript
+Java
+ ├── Programação Orientada a Objetos
+ ├── APIs
+ └── Desenvolvimento Back-End
+
+JavaScript
+ ├── DOM
+ ├── Eventos
+ └── Integração com Front-End
+
+HTML + CSS
+ └── Interfaces Web
 ```
 
-### 📈 My Journey
+---
 
-I'm constantly learning, building projects, making mistakes, fixing them, and improving.
+## 📫 Conecte-se Comigo
 
-**One project at a time. One step at a time. 🚀**
+Estou constantemente aprendendo, desenvolvendo projetos e aprimorando minhas habilidades através da prática.
+
+**Sempre aprendendo. Sempre desenvolvendo. 🚀**
