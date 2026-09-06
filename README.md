@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Sammy
+# 👋 Olá, eu sou o Sami
 
 ### 💻 Desenvolvedor Back-End em Formação
 
