@@ -77,10 +77,4 @@ My goal is to continue evolving as a **Back-End Developer**, building real proje
 
 ### 📊 GitHub
 
-![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=samisantts\&show_icons=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samisantts\&layout=compact\&theme=dark)
-
----
-
 > **Learning by building. Improving one project at a time. 🚀**
