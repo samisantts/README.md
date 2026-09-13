@@ -1,73 +1,86 @@
-# 👋 Olá, eu sou o Sami
+# 👋 Hi, I'm Sami Gonçalves Santos
 
-### 💻 Desenvolvedor Back-End em Formação
+### 💻 Back-End Developer | Java | Spring Boot
 
-Sou um desenvolvedor em formação, focado em **desenvolvimento Back-End**, atualmente criando projetos pessoais para fortalecer minha lógica de programação e minhas habilidades em desenvolvimento de software.
+I'm a developer focused on **Back-End Development**, currently expanding my knowledge by building personal projects and applying what I learn in practice.
 
-Minhas principais tecnologias são **Java, JavaScript, HTML e CSS**. Atualmente estou estudando **Programação Orientada a Objetos, APIs e a integração entre Back-End e Front-End**.
-
----
-
-## 🧑‍💻 Sobre Mim
-
-* 🚀 Atualmente aprendendo **Java e desenvolvimento Back-End**
-* ☕ Estudando **Programação Orientada a Objetos (POO)**
-* 🌐 Desenvolvendo interfaces com **HTML, CSS e JavaScript**
-* 🔌 Aprendendo a desenvolver e consumir **APIs**
-* 🧠 Focado em melhorar minha **lógica de programação e resolução de problemas**
-* 🛠️ Desenvolvendo **projetos pessoais** para colocar meus conhecimentos em prática
+My main focus is the **Java ecosystem**, where I've been studying object-oriented programming, REST APIs, application architecture, and Back-End development with Spring Boot.
 
 ---
 
-## ⚡ Stack Tecnológica
+## 🚀 Technologies & Tools
 
-**Back-End**
+### Back-End
 
-`Java` `POO` `APIs`
+* ☕ Java
+* 🍃 Spring Boot
+* 🌐 REST APIs
+* 🧩 Object-Oriented Programming (OOP)
+* 📦 Maven
 
-**Front-End**
+### Front-End
 
-`HTML5` `CSS3` `JavaScript`
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
 
-**Ferramentas**
+### Tools
 
-`Git` `GitHub` `VS Code` `IntelliJ IDEA`
-
----
-
-## 🚧 Projeto em Destaque
-
-### 💱 Conversor de Moedas
-
-Um projeto pessoal criado para praticar **Java, Programação Orientada a Objetos, APIs, JavaScript, HTML e CSS**.
-
-O projeto combina um Back-End desenvolvido em Java com uma interface web e está sendo desenvolvido passo a passo, com planos de adicionar visualização de dados das cotações através de gráficos e outras funcionalidades.
-
-**Status:** 🚧 Em desenvolvimento
+* 🔧 Git
+* 🐙 GitHub
+* 📮 Postman
+* 💻 IntelliJ IDEA
+* 🖥️ VS Code
 
 ---
 
-## 🎯 Atualmente Aprendendo
+## 📚 Currently Learning
 
-```text
-Java
- ├── Programação Orientada a Objetos
- ├── APIs
- └── Desenvolvimento Back-End
+I'm currently improving my knowledge in:
 
-JavaScript
- ├── DOM
- ├── Eventos
- └── Integração com Front-End
-
-HTML + CSS
- └── Interfaces Web
-```
+* Java & Object-Oriented Programming
+* Spring Boot
+* REST API development
+* HTTP methods and endpoints
+* Layered architecture
+* Front-End and Back-End integration
+* API consumption
+* Clean and organized code
 
 ---
 
-## 📫 Conecte-se Comigo
+## 💱 Personal Project — Currency Converter
 
-Estou constantemente aprendendo, desenvolvendo projetos e aprimorando minhas habilidades através da prática.
+One of my main personal projects is a **Currency Converter application**, developed to put my Back-End knowledge into practice.
 
-**Sempre aprendendo. Sempre desenvolvendo. 🚀**
+The project has been evolving from basic Java and OOP concepts into a more structured application using **Spring Boot and REST APIs**.
+
+Through this project, I'm practicing:
+
+* Back-End architecture
+* REST endpoints
+* HTTP requests
+* Currency conversion logic
+* External API integration
+* Front-End and Back-End communication
+* Code organization and separation of responsibilities
+
+The project is still under development as I continue learning and implementing new features.
+
+---
+
+## 🎯 Goals
+
+My goal is to continue evolving as a **Back-End Developer**, building real projects, strengthening my knowledge of Java and Spring Boot, and learning new technologies along the way.
+
+---
+
+### 📊 GitHub
+
+![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=samisantts\&show_icons=true\&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samisantts\&layout=compact\&theme=dark)
+
+---
+
+> **Learning by building. Improving one project at a time. 🚀**
