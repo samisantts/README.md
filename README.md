@@ -1,80 +1,41 @@
 # 👋 Hi, I'm Sami Gonçalves Santos
 
-### 💻 Back-End Developer | Java | Spring Boot
+**Back-End Developer in training | Java | Spring Boot**
 
-I'm a developer focused on **Back-End Development**, currently expanding my knowledge by building personal projects and applying what I learn in practice.
+I'm a Software Engineering student at UCSal (Salvador, Brazil). I learn by building: everything I study in Java and Spring Boot turns into a project in this account.
 
-My main focus is the **Java ecosystem**, where I've been studying object-oriented programming, REST APIs, application architecture, and Back-End development with Spring Boot.
+## 🚀 Featured project
 
----
+### Personal Finance Control System
+A REST API for tracking income, expenses and balance, built in a pair with Git (dev and main branches).
 
-## 🚀 Technologies & Tools
+- Layered architecture: Controller, Service and Repository
+- JPA and PostgreSQL for persistence
+- User registration, update and login, with duplicate e-mail checks
+- Endpoints tested with Postman
+- Coming next: expenses, budgets, Spring Security and automated tests
 
-### Back-End
+**Stack:** Java, Spring Boot, JPA, PostgreSQL, Maven
 
-* ☕ Java
-* 🍃 Spring Boot
-* 🌐 REST APIs
-* 🧩 Object-Oriented Programming (OOP)
-* 📦 Maven
+🔗 [Repository](https://github.com/samisantts/SistemaDeControleFinanceiro-)
 
-### Front-End
+### Currency Converter (in progress)
+A Java project that started with OOP fundamentals and is evolving into a Spring Boot API with external API integration.
 
-* 🌐 HTML5
-* 🎨 CSS3
-* ⚡ JavaScript
+## 🛠️ Tools
 
-### Tools
+**Back-End:** Java, Spring Boot, JPA, REST APIs, PostgreSQL, Maven, OOP
+**Tools:** Git, GitHub, Postman, IntelliJ IDEA, VS Code
+**Also:** HTML, CSS, JavaScript
 
-* 🔧 Git
-* 🐙 GitHub
-* 📮 Postman
-* 💻 IntelliJ IDEA
-* 🖥️ VS Code
+## 📚 Currently learning
 
----
+- Spring Security
+- Automated tests
+- Clean code and separation of responsibilities
 
-## 📚 Currently Learning
+## 📫 Let's connect
 
-I'm currently improving my knowledge in:
+I'm looking for my first opportunity as a back-end intern. If you want to talk about Java or have an opening, reach me on [LinkedIn](https://www.linkedin.com/in/sami-santos-9625243a4).
 
-* Java & Object-Oriented Programming
-* Spring Boot
-* REST API development
-* HTTP methods and endpoints
-* Layered architecture
-* Front-End and Back-End integration
-* API consumption
-* Clean and organized code
-
----
-
-## 💱 Personal Project — Currency Converter
-
-One of my main personal projects is a **Currency Converter application**, developed to put my Back-End knowledge into practice.
-
-The project has been evolving from basic Java and OOP concepts into a more structured application using **Spring Boot and REST APIs**.
-
-Through this project, I'm practicing:
-
-* Back-End architecture
-* REST endpoints
-* HTTP requests
-* Currency conversion logic
-* External API integration
-* Front-End and Back-End communication
-* Code organization and separation of responsibilities
-
-The project is still under development as I continue learning and implementing new features.
-
----
-
-## 🎯 Goals
-
-My goal is to continue evolving as a **Back-End Developer**, building real projects, strengthening my knowledge of Java and Spring Boot, and learning new technologies along the way.
-
----
-
-### 📊 GitHub
-
-> **Learning by building. Improving one project at a time. 🚀**
+*Learning by building, one project at a time.* 🚀
